@@ -1,0 +1,31 @@
+Content,Start time,End time,Duration,Key event,Laytime cause,Non-laytime cause
+15-feb-13 10:18 fri esp n nor tendered,10:18,,,,,
+10:18 12:12 waiting for pilot due to dense fog,10:18,12:12,114.0,,,fog
+12:12 anchor heaved,12:12,,,,,
+12:12 12:50 vessel proceeding to pilot boarding position,12:12,12:50,38.0,,,
+12:50 16:18 p.o.b n vs came alongside at berth no.15,12:50,16:18,208.0,,,
+pobs 12:50 est line 15:54 all fast 16:18,12:50,15:54,184.0,,,
+16:18 17:00 inward formality,16:18,17:00,42.0,,,
+17:00 19:00 initial draft survey,17:00,19:00,120.0,,,
+19:00 19:30 holds inspection and all holds passed for loading at 19:30,19:00,19:30,30.0,,,
+19:30 21:25 shore side prepared for loading,19:30,21:25,115.0,,,
+21:25 loading commenced,21:25,,,,,
+21:25 24:00 loading continued,21:25,24:00,155.0,,,
+16-feb-13 00:00 07:30 sat loading continued,00:00,07:30,450.0,,,
+07:30 08:10 loading suspended due to rain,07:30,08:10,40.0,LOADING SUSPENDED,,RAIN
+08:10 10:00 loading resumed and continued,08:10,10:00,110.0,,,
+ 10:00 10:30 loading suspended due to rain,10:00,10:30,30.0,LOADING SUSPENDED,,RAIN
+10:30 19:45 loading resumed and continued ,10:30,19:45,555.0,,,
+19:45 24:00 loading suspended due to rain,19:45,24:00,255.0,LOADING SUSPENDED,,RAIN
+17-feb-13 00:00 14:00 sun loading suspended due to rain,00:00,14:00,840.0,LOADING SUSPENDED,,RAIN
+14:00 24:00 loading resumed and continued,14:00,24:00,600.0,,,
+18-feb-13 00:00 06:30 mon loading continued,00:00,06:30,390.0,,,
+06:30 08:30 waiting for draft surveyors,06:30,08:30,120.0,,,
+08:30 10:00 draft survey conducted n turned out about 200 tons cargo le,08:30,10:00,90.0,,,
+10:00 18:32 shore side prepared for loading,10:00,18:32,512.0,,,
+18:32 24:00 loading resumed and continued,18:32,24:00,328.0,,,
+24:00 loading completed at 24:00,24:00,24:00,0.0,loading completed,,
+ 19-feb-13 00:00 01:00 tue final draft survey,00:00,01:00,60.0,,,
+ 01:00 02:20 loading empty spare bags,01:00,02:20,80.0,,,
+ 02:20 04:00 outward formalities,02:20,04:00,100.0,,,
+04:00 itgolt port channel closed due to dense fog,04:00,,,,,fog
